@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+.img1{
+    float: right;
+    margin-left: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+
+figcaption{
+    transform: translate(+800px,+330px);
+    font-weight: bold;
+}
+
+#p1{
+    margin-top: -70px;
+}
+
+#key{
+    margin-top: 50px;
+}
+
+ol{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+
+.org{
+    float: right;
+    margin-right: 35px;
+    margin-top: 60px;
+}
+
+#last{
+    margin-top: 70px;
+   margin-left: 230px;
+   font-size: 25px;
+   color: blue;
+   font-style:oblique;
+   font-weight: bold;
+}
